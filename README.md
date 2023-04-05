@@ -1,4 +1,4 @@
-# chemical_calc
+# Kalulator Chemia klasa 8 czyli wszystko co potrzebujesz, żeby odrobić prace domową
 Jestem dzieckiem ale nie lubie robić pracy domowej
 
 Elo, to programik na którym się uczę robić śmieszne rzeczy mam nadzieje że się spodoba.
